@@ -35,5 +35,5 @@ var app = new Vue({
             vm.message = ''
           })
       }
-    },
+    }
 })
