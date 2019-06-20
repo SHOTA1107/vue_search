@@ -1,5 +1,11 @@
-# vue_search
+# README
 
-## Qiita記事のAPIにて取得するアプリケーション
+## Description
+・QiitaAPIを利用した記事検索アプリケーション
 
-## 検索ワードでQiitaから関連する記事を取得する
+## Features
+・検索ワードから記事取得
+
+・APIに過剰な負荷をかけないためにdebounce関数使用
+
+
